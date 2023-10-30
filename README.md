@@ -1,2 +1,2 @@
 # wikEddiff
-The mirror of wikipedia WikEdDiff
+The mirror of wikipedia **WikEdDiff**. Link: [Cacycle/diff](https://en.wikipedia.org/wiki/User:Cacycle/diff)
